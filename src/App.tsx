@@ -4,6 +4,7 @@ import './App.css';
 
 import {Almon} from "./money";
 import {Logika} from "./logika";
+import {Mytrain} from "./newtrain/mytrain1";
 
 function App() {
     let [a, setA] = useState(1)
@@ -30,6 +31,8 @@ function App() {
 
     return (
         <div>
+            <Mytrain/>
+
 
             {/*<Almon arr={money}/>*/}
 
