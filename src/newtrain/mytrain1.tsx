@@ -11,13 +11,6 @@ export type FiltType = 'high' | 'low' | 'middle' | 'all'
 
 
 export const Mytrain = () => {
-    // const arr: Array<ArrType> = [ // need to fix any
-    //     {id: 1, name: 'React', priority: 'high'},
-    //     {id: 2, name: 'React', priority: 'low'},
-    //     {id: 3, name: 'games', priority: 'low'},
-    //     {id: 4, name: 'work', priority: 'high'},
-    //     {id: 5, name: 'html & css', priority: 'middle'},
-    // ]
 
     let [newArr, setNewArr] = useState([ // need to fix any
         {id: 1, name: 'React', priority: 'high'},
