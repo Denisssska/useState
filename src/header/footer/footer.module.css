@@ -1,0 +1,45 @@
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: dimgray;
+}
+
+.skills {
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.skills h1 {
+    margin: 0;
+    padding: 20px 0;
+
+}
+
+.skills div h2 {
+    padding-bottom: 10px;
+}
+
+.button {
+    margin-bottom: 20px;
+}
+
+.inputs div {
+    margin-top: 10px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: dimgray;
+}
+
+.logo div {
+    background-color: darkorange;
+    height: 60px;
+    width: 10%;
+    margin-left: 10px;
+
+}

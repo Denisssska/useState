@@ -1,0 +1,27 @@
+.border {
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: dimgray;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.border div {
+    min-width: 200px;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+
+.text {
+    display: inline;
+    margin: 2.5% 2%;
+    align-self: center;
+    width: 30%;
+}
+
+.text h1 {
+    font-size: 18px;
+}

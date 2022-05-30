@@ -1,0 +1,22 @@
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: silver;
+}
+
+.skills {
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.skills h1 {
+    margin: 0;
+    padding: 20px 0;
+
+}
+
+.button {
+    margin-bottom: 20px;
+}
+
